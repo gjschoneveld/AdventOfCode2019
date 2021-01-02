@@ -1,0 +1,22 @@
+﻿south
+take mouse
+north
+west
+north
+north
+west
+take semiconductor
+east
+south
+west
+south
+take hypercube
+north
+east
+south
+west
+take antenna
+west
+south
+south
+south
